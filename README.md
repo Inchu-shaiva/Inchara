@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Inchara M N
+# Hi there 👋 I'm Inchara
 
 ### Deputy Manager – Quality Assurance | Smart Metering | Process Excellence | Python | Automation
 
