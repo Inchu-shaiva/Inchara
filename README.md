@@ -91,8 +91,6 @@ My technical interests are closely connected to **smart metering, connected devi
 
 - Microsoft 365
 - Microsoft Excel
-- Power BI
-- Data Analysis
 - AI Productivity Tools
 - Automation Solutions
 
